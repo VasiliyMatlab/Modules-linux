@@ -1,0 +1,7 @@
+.vscode
+tmp
+
+*.ko
+*.o
+
+test.c
