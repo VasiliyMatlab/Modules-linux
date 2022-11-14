@@ -1,4 +1,4 @@
-MODULE_NAME = Args
+MODULE_NAME = test
 
 obj-m = $(MODULE_NAME).o
 
